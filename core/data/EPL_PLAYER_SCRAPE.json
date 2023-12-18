@@ -1,0 +1,3747 @@
+[
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Kyle Walker (Senior leader)",
+      "Team": "ManchesterCity",
+      "id": 1
+    },
+    {
+      "Position": "DF",
+      "Nation": "POR",
+      "PlayerName": "Rúben Dias (Senior leader)",
+      "Team": "ManchesterCity",
+      "id": 2
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Kalvin Phillips",
+      "Team": "ManchesterCity",
+      "id": 3
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "John Stones",
+      "Team": "ManchesterCity",
+      "id": 4
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Nathan Aké",
+      "Team": "ManchesterCity",
+      "id": 5
+    },
+    {
+      "Position": "MF",
+      "Nation": "CRO",
+      "PlayerName": "Mateo Kovačić",
+      "Team": "ManchesterCity",
+      "id": 6
+    },
+    {
+      "Position": "FW",
+      "Nation": "NOR",
+      "PlayerName": "Erling Haaland",
+      "Team": "ManchesterCity",
+      "id": 7
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Jack Grealish",
+      "Team": "ManchesterCity",
+      "id": 8
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Jérémy Doku",
+      "Team": "ManchesterCity",
+      "id": 9
+    },
+    {
+      "Position": "MF",
+      "Nation": "ESP",
+      "PlayerName": "Rodri (Senior leader)",
+      "Team": "ManchesterCity",
+      "id": 10
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Kevin De Bruyne (Senior leader)",
+      "Team": "ManchesterCity",
+      "id": 11
+    },
+    {
+      "Position": "GK",
+      "Nation": "GER",
+      "PlayerName": "Stefan Ortega",
+      "Team": "ManchesterCity",
+      "id": 12
+    },
+    {
+      "Position": "FW",
+      "Nation": "ARG",
+      "PlayerName": "Julián Álvarez",
+      "Team": "ManchesterCity",
+      "id": 13
+    },
+    {
+      "Position": "MF",
+      "Nation": "POR",
+      "PlayerName": "Bernardo Silva (Senior leader)",
+      "Team": "ManchesterCity",
+      "id": 14
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Sergio Gómez",
+      "Team": "ManchesterCity",
+      "id": 15
+    },
+    {
+      "Position": "DF",
+      "Nation": "CRO",
+      "PlayerName": "Joško Gvardiol",
+      "Team": "ManchesterCity",
+      "id": 16
+    },
+    {
+      "Position": "DF",
+      "Nation": "SUI",
+      "PlayerName": "Manuel Akanji",
+      "Team": "ManchesterCity",
+      "id": 17
+    },
+    {
+      "Position": "MF",
+      "Nation": "POR",
+      "PlayerName": "Matheus Nunes",
+      "Team": "ManchesterCity",
+      "id": 18
+    },
+    {
+      "Position": "GK",
+      "Nation": "BRA",
+      "PlayerName": "Ederson",
+      "Team": "ManchesterCity",
+      "id": 19
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Scott Carson",
+      "Team": "ManchesterCity",
+      "id": 20
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Phil Foden",
+      "Team": "ManchesterCity",
+      "id": 21
+    },
+    {
+      "Position": "MF",
+      "Nation": "NOR",
+      "PlayerName": "Oscar Bobb",
+      "Team": "ManchesterCity",
+      "id": 22
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Rico Lewis",
+      "Team": "ManchesterCity",
+      "id": 23
+    },
+    {
+      "Position": "GK",
+      "Nation": "BRA",
+      "PlayerName": "Alisson Becker (4th captain)",
+      "Team": "Liverpool",
+      "id": 24
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Joe Gomez",
+      "Team": "Liverpool",
+      "id": 25
+    },
+    {
+      "Position": "MF",
+      "Nation": "JPN",
+      "PlayerName": "Wataru Endō",
+      "Team": "Liverpool",
+      "id": 26
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Virgil van Dijk (captain)",
+      "Team": "Liverpool",
+      "id": 27
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Ibrahima Konaté",
+      "Team": "Liverpool",
+      "id": 28
+    },
+    {
+      "Position": "MF",
+      "Nation": "ESP",
+      "PlayerName": "Thiago Alcântara",
+      "Team": "Liverpool",
+      "id": 29
+    },
+    {
+      "Position": "FW",
+      "Nation": "COL",
+      "PlayerName": "Luis Díaz",
+      "Team": "Liverpool",
+      "id": 30
+    },
+    {
+      "Position": "MF",
+      "Nation": "HUN",
+      "PlayerName": "Dominik Szoboszlai",
+      "Team": "Liverpool",
+      "id": 31
+    },
+    {
+      "Position": "FW",
+      "Nation": "URU",
+      "PlayerName": "Darwin Núñez",
+      "Team": "Liverpool",
+      "id": 32
+    },
+    {
+      "Position": "MF",
+      "Nation": "ARG",
+      "PlayerName": "Alexis Mac Allister",
+      "Team": "Liverpool",
+      "id": 33
+    },
+    {
+      "Position": "FW",
+      "Nation": "EGY",
+      "PlayerName": "Mohamed Salah",
+      "Team": "Liverpool",
+      "id": 34
+    },
+    {
+      "Position": "GK",
+      "Nation": "ESP",
+      "PlayerName": "Adrián",
+      "Team": "Liverpool",
+      "id": 35
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Curtis Jones",
+      "Team": "Liverpool",
+      "id": 36
+    },
+    {
+      "Position": "FW",
+      "Nation": "NED",
+      "PlayerName": "Cody Gakpo",
+      "Team": "Liverpool",
+      "id": 37
+    },
+    {
+      "Position": "Pos.",
+      "Nation": "Nation",
+      "PlayerName": "Player",
+      "Team": "Liverpool",
+      "id": 38
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Harvey Elliott",
+      "Team": "Liverpool",
+      "id": 39
+    },
+    {
+      "Position": "FW",
+      "Nation": "POR",
+      "PlayerName": "Diogo Jota",
+      "Team": "Liverpool",
+      "id": 40
+    },
+    {
+      "Position": "DF",
+      "Nation": "GRE",
+      "PlayerName": "Kostas Tsimikas",
+      "Team": "Liverpool",
+      "id": 41
+    },
+    {
+      "Position": "DF",
+      "Nation": "SCO",
+      "PlayerName": "Andrew Robertson (3rd captain)",
+      "Team": "Liverpool",
+      "id": 42
+    },
+    {
+      "Position": "DF",
+      "Nation": "CMR",
+      "PlayerName": "Joël Matip",
+      "Team": "Liverpool",
+      "id": 43
+    },
+    {
+      "Position": "MF",
+      "Nation": "NED",
+      "PlayerName": "Ryan Gravenberch",
+      "Team": "Liverpool",
+      "id": 44
+    },
+    {
+      "Position": "MF",
+      "Nation": "ESP",
+      "PlayerName": "Stefan Bajcetic",
+      "Team": "Liverpool",
+      "id": 45
+    },
+    {
+      "Position": "GK",
+      "Nation": "BRA",
+      "PlayerName": "Marcelo Pitaluga",
+      "Team": "Liverpool",
+      "id": 46
+    },
+    {
+      "Position": "FW",
+      "Nation": "SCO",
+      "PlayerName": "Ben Doak",
+      "Team": "Liverpool",
+      "id": 47
+    },
+    {
+      "Position": "GK",
+      "Nation": "IRL",
+      "PlayerName": "Caoimhín Kelleher",
+      "Team": "Liverpool",
+      "id": 48
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Trent Alexander-Arnold (vice-captain)",
+      "Team": "Liverpool",
+      "id": 49
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Jarell Quansah",
+      "Team": "Liverpool",
+      "id": 50
+    },
+    {
+      "Position": "DF",
+      "Nation": "NIR",
+      "PlayerName": "Conor Bradley",
+      "Team": "Liverpool",
+      "id": 51
+    },
+    {
+      "Position": "Pos.",
+      "Nation": "Nation",
+      "PlayerName": "Player",
+      "Team": "Arsenal",
+      "id": 52
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Miguel Azeez [228]",
+      "Team": "Arsenal",
+      "id": 53
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Ethan Nwaneri [229]",
+      "Team": "Arsenal",
+      "id": 54
+    },
+    {
+      "Position": "Pos.",
+      "Nation": "Nation",
+      "PlayerName": "Player",
+      "Team": "Arsenal",
+      "id": 55
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Charles Sagoe Jr. [230]",
+      "Team": "Arsenal",
+      "id": 56
+    },
+    {
+      "Position": "GK",
+      "Nation": "FRA",
+      "PlayerName": "Hugo Lloris",
+      "Team": "TottenhamHotspur",
+      "id": 57
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Oliver Skipp",
+      "Team": "TottenhamHotspur",
+      "id": 58
+    },
+    {
+      "Position": "MF",
+      "Nation": "DEN",
+      "PlayerName": "Pierre-Emile Højbjerg",
+      "Team": "TottenhamHotspur",
+      "id": 59
+    },
+    {
+      "Position": "FW",
+      "Nation": "KOR",
+      "PlayerName": "Son Heung-min (captain)",
+      "Team": "TottenhamHotspur",
+      "id": 60
+    },
+    {
+      "Position": "MF",
+      "Nation": "MLI",
+      "PlayerName": "Yves Bissouma",
+      "Team": "TottenhamHotspur",
+      "id": 61
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "Richarlison",
+      "Team": "TottenhamHotspur",
+      "id": 62
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "James Maddison (vice-captain)",
+      "Team": "TottenhamHotspur",
+      "id": 63
+    },
+    {
+      "Position": "MF",
+      "Nation": "ESP",
+      "PlayerName": "Bryan Gil",
+      "Team": "TottenhamHotspur",
+      "id": 64
+    },
+    {
+      "Position": "DF",
+      "Nation": "BRA",
+      "PlayerName": "Emerson Royal",
+      "Team": "TottenhamHotspur",
+      "id": 65
+    },
+    {
+      "Position": "GK",
+      "Nation": "ITA",
+      "PlayerName": "Guglielmo Vicario",
+      "Team": "TottenhamHotspur",
+      "id": 66
+    },
+    {
+      "Position": "MF",
+      "Nation": "CRO",
+      "PlayerName": "Ivan Perišić",
+      "Team": "TottenhamHotspur",
+      "id": 67
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Eric Dier",
+      "Team": "TottenhamHotspur",
+      "id": 68
+    },
+    {
+      "Position": "DF",
+      "Nation": "ARG",
+      "PlayerName": "Cristian Romero (vice-captain)",
+      "Team": "TottenhamHotspur",
+      "id": 69
+    },
+    {
+      "Position": "MF",
+      "Nation": "ARG",
+      "PlayerName": "Giovani Lo Celso",
+      "Team": "TottenhamHotspur",
+      "id": 70
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Ryan Sessegnon",
+      "Team": "TottenhamHotspur",
+      "id": 71
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Fraser Forster",
+      "Team": "TottenhamHotspur",
+      "id": 72
+    },
+    {
+      "Position": "FW",
+      "Nation": "SWE",
+      "PlayerName": "Dejan Kulusevski",
+      "Team": "TottenhamHotspur",
+      "id": 73
+    },
+    {
+      "Position": "FW",
+      "Nation": "WAL",
+      "PlayerName": "Brennan Johnson",
+      "Team": "TottenhamHotspur",
+      "id": 74
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Pedro Porro",
+      "Team": "TottenhamHotspur",
+      "id": 75
+    },
+    {
+      "Position": "FW",
+      "Nation": "ISR",
+      "PlayerName": "Manor Solomon",
+      "Team": "TottenhamHotspur",
+      "id": 76
+    },
+    {
+      "Position": "MF",
+      "Nation": "SEN",
+      "PlayerName": "Pape Matar Sarr",
+      "Team": "TottenhamHotspur",
+      "id": 77
+    },
+    {
+      "Position": "MF",
+      "Nation": "URU",
+      "PlayerName": "Rodrigo Bentancur",
+      "Team": "TottenhamHotspur",
+      "id": 78
+    },
+    {
+      "Position": "DF",
+      "Nation": "WAL",
+      "PlayerName": "Ben Davies",
+      "Team": "TottenhamHotspur",
+      "id": 79
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ashley Phillips",
+      "Team": "TottenhamHotspur",
+      "id": 80
+    },
+    {
+      "Position": "FW",
+      "Nation": "ARG",
+      "PlayerName": "Alejo Véliz",
+      "Team": "TottenhamHotspur",
+      "id": 81
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Micky van de Ven",
+      "Team": "TottenhamHotspur",
+      "id": 82
+    },
+    {
+      "Position": "DF",
+      "Nation": "ITA",
+      "PlayerName": "Destiny Udogie",
+      "Team": "TottenhamHotspur",
+      "id": 83
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Brandon Austin",
+      "Team": "TottenhamHotspur",
+      "id": 84
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Alfie Whiteman",
+      "Team": "TottenhamHotspur",
+      "id": 85
+    },
+    {
+      "Position": "GK",
+      "Nation": "ARG",
+      "PlayerName": "Emiliano Martínez (vice-captain)",
+      "Team": "AstonVilla",
+      "id": 86
+    },
+    {
+      "Position": "DF",
+      "Nation": "POL",
+      "PlayerName": "Matty Cash",
+      "Team": "AstonVilla",
+      "id": 87
+    },
+    {
+      "Position": "DF",
+      "Nation": "BRA",
+      "PlayerName": "Diego Carlos (vice-captain)",
+      "Team": "AstonVilla",
+      "id": 88
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ezri Konsa",
+      "Team": "AstonVilla",
+      "id": 89
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Tyrone Mings",
+      "Team": "AstonVilla",
+      "id": 90
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Douglas Luiz",
+      "Team": "AstonVilla",
+      "id": 91
+    },
+    {
+      "Position": "MF",
+      "Nation": "SCO",
+      "PlayerName": "John McGinn (captain)",
+      "Team": "AstonVilla",
+      "id": 92
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Youri Tielemans",
+      "Team": "AstonVilla",
+      "id": 93
+    },
+    {
+      "Position": "MF",
+      "Nation": "BFA",
+      "PlayerName": "Bertrand Traoré",
+      "Team": "AstonVilla",
+      "id": 94
+    },
+    {
+      "Position": "MF",
+      "Nation": "ARG",
+      "PlayerName": "Emiliano Buendía",
+      "Team": "AstonVilla",
+      "id": 95
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Ollie Watkins",
+      "Team": "AstonVilla",
+      "id": 96
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Lucas Digne",
+      "Team": "AstonVilla",
+      "id": 97
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Pau Torres",
+      "Team": "AstonVilla",
+      "id": 98
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Àlex Moreno",
+      "Team": "AstonVilla",
+      "id": 99
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Calum Chambers",
+      "Team": "AstonVilla",
+      "id": 100
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Clément Lenglet (on loan from Barcelona)",
+      "Team": "AstonVilla",
+      "id": 101
+    },
+    {
+      "Position": "MF",
+      "Nation": "FRA",
+      "PlayerName": "Moussa Diaby",
+      "Team": "AstonVilla",
+      "id": 102
+    },
+    {
+      "Position": "MF",
+      "Nation": "ITA",
+      "PlayerName": "Nicolò Zaniolo (on loan from  Galatasaray)",
+      "Team": "AstonVilla",
+      "id": 103
+    },
+    {
+      "Position": "FW",
+      "Nation": "COL",
+      "PlayerName": "Jhon Durán",
+      "Team": "AstonVilla",
+      "id": 104
+    },
+    {
+      "Position": "GK",
+      "Nation": "SWE",
+      "PlayerName": "Robin Olsen",
+      "Team": "AstonVilla",
+      "id": 105
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Kortney Hause",
+      "Team": "AstonVilla",
+      "id": 106
+    },
+    {
+      "Position": "MF",
+      "Nation": "JAM",
+      "PlayerName": "Leon Bailey",
+      "Team": "AstonVilla",
+      "id": 107
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Leander Dendoncker",
+      "Team": "AstonVilla",
+      "id": 108
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Jacob Ramsey",
+      "Team": "AstonVilla",
+      "id": 109
+    },
+    {
+      "Position": "MF",
+      "Nation": "FRA",
+      "PlayerName": "Boubacar Kamara",
+      "Team": "AstonVilla",
+      "id": 110
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Tim Iroegbunam",
+      "Team": "AstonVilla",
+      "id": 111
+    },
+    {
+      "Position": "GK",
+      "Nation": "TUR",
+      "PlayerName": "Altay Bayındır",
+      "Team": "ManchesterUnited",
+      "id": 112
+    },
+    {
+      "Position": "DF",
+      "Nation": "SWE",
+      "PlayerName": "Victor Lindelöf",
+      "Team": "ManchesterUnited",
+      "id": 113
+    },
+    {
+      "Position": "MF",
+      "Nation": "MAR",
+      "PlayerName": "Sofyan Amrabat (on loan from Fiorentina)[220]",
+      "Team": "ManchesterUnited",
+      "id": 114
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Harry Maguire",
+      "Team": "ManchesterUnited",
+      "id": 115
+    },
+    {
+      "Position": "DF",
+      "Nation": "ARG",
+      "PlayerName": "Lisandro Martínez",
+      "Team": "ManchesterUnited",
+      "id": 116
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Mason Mount",
+      "Team": "ManchesterUnited",
+      "id": 117
+    },
+    {
+      "Position": "MF",
+      "Nation": "POR",
+      "PlayerName": "Bruno Fernandes (captain)",
+      "Team": "ManchesterUnited",
+      "id": 118
+    },
+    {
+      "Position": "FW",
+      "Nation": "FRA",
+      "PlayerName": "Anthony Martial",
+      "Team": "ManchesterUnited",
+      "id": 119
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Marcus Rashford",
+      "Team": "ManchesterUnited",
+      "id": 120
+    },
+    {
+      "Position": "FW",
+      "Nation": "DEN",
+      "PlayerName": "Rasmus Højlund",
+      "Team": "ManchesterUnited",
+      "id": 121
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Tyrell Malacia",
+      "Team": "ManchesterUnited",
+      "id": 122
+    },
+    {
+      "Position": "MF",
+      "Nation": "DEN",
+      "PlayerName": "Christian Eriksen",
+      "Team": "ManchesterUnited",
+      "id": 123
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Sergio Reguilón (on loan from Tottenham Hotspur)[221]",
+      "Team": "ManchesterUnited",
+      "id": 124
+    },
+    {
+      "Position": "MF",
+      "Nation": "CIV",
+      "PlayerName": "Amad Diallo",
+      "Team": "ManchesterUnited",
+      "id": 125
+    },
+    {
+      "Position": "FW",
+      "Nation": "ARG",
+      "PlayerName": "Alejandro Garnacho",
+      "Team": "ManchesterUnited",
+      "id": 126
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Casemiro",
+      "Team": "ManchesterUnited",
+      "id": 127
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Raphaël Varane",
+      "Team": "ManchesterUnited",
+      "id": 128
+    },
+    {
+      "Position": "DF",
+      "Nation": "POR",
+      "PlayerName": "Diogo Dalot",
+      "Team": "ManchesterUnited",
+      "id": 129
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "Antony",
+      "Team": "ManchesterUnited",
+      "id": 130
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Tom Heaton",
+      "Team": "ManchesterUnited",
+      "id": 131
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Luke Shaw",
+      "Team": "ManchesterUnited",
+      "id": 132
+    },
+    {
+      "Position": "GK",
+      "Nation": "CMR",
+      "PlayerName": "André Onana",
+      "Team": "ManchesterUnited",
+      "id": 133
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Jadon Sancho",
+      "Team": "ManchesterUnited",
+      "id": 134
+    },
+    {
+      "Position": "MF",
+      "Nation": "URU",
+      "PlayerName": "Facundo Pellistri",
+      "Team": "ManchesterUnited",
+      "id": 135
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Aaron Wan-Bissaka",
+      "Team": "ManchesterUnited",
+      "id": 136
+    },
+    {
+      "Position": "MF",
+      "Nation": "NED",
+      "PlayerName": "Donny van de Beek",
+      "Team": "ManchesterUnited",
+      "id": 137
+    },
+    {
+      "Position": "DF",
+      "Nation": "NIR",
+      "PlayerName": "Jonny Evans",
+      "Team": "ManchesterUnited",
+      "id": 138
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Kobbie Mainoo",
+      "Team": "ManchesterUnited",
+      "id": 139
+    },
+    {
+      "Position": "MF",
+      "Nation": "SCO",
+      "PlayerName": "Scott McTominay",
+      "Team": "ManchesterUnited",
+      "id": 140
+    },
+    {
+      "Position": "MF",
+      "Nation": "TUN",
+      "PlayerName": "Hannibal Mejbri",
+      "Team": "ManchesterUnited",
+      "id": 141
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Shola Shoretire",
+      "Team": "ManchesterUnited",
+      "id": 142
+    },
+    {
+      "Position": "GK",
+      "Nation": "SVK",
+      "PlayerName": "Martin Dúbravka",
+      "Team": "NewcastleUnited",
+      "id": 143
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Kieran Trippier (vice-captain)",
+      "Team": "NewcastleUnited",
+      "id": 144
+    },
+    {
+      "Position": "DF",
+      "Nation": "WAL",
+      "PlayerName": "Paul Dummett",
+      "Team": "NewcastleUnited",
+      "id": 145
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Sven Botman",
+      "Team": "NewcastleUnited",
+      "id": 146
+    },
+    {
+      "Position": "DF",
+      "Nation": "SUI",
+      "PlayerName": "Fabian Schär",
+      "Team": "NewcastleUnited",
+      "id": 147
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Jamaal Lascelles (captain)",
+      "Team": "NewcastleUnited",
+      "id": 148
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Joelinton",
+      "Team": "NewcastleUnited",
+      "id": 149
+    },
+    {
+      "Position": "MF",
+      "Nation": "ITA",
+      "PlayerName": "Sandro Tonali (suspended)[170]",
+      "Team": "NewcastleUnited",
+      "id": 150
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Callum Wilson",
+      "Team": "NewcastleUnited",
+      "id": 151
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Anthony Gordon",
+      "Team": "NewcastleUnited",
+      "id": 152
+    },
+    {
+      "Position": "MF",
+      "Nation": "SCO",
+      "PlayerName": "Matt Ritchie",
+      "Team": "NewcastleUnited",
+      "id": 153
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Matt Targett",
+      "Team": "NewcastleUnited",
+      "id": 154
+    },
+    {
+      "Position": "FW",
+      "Nation": "SWE",
+      "PlayerName": "Alexander Isak",
+      "Team": "NewcastleUnited",
+      "id": 155
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Harvey Barnes",
+      "Team": "NewcastleUnited",
+      "id": 156
+    },
+    {
+      "Position": "DF",
+      "Nation": "SWE",
+      "PlayerName": "Emil Krafth",
+      "Team": "NewcastleUnited",
+      "id": 157
+    },
+    {
+      "Position": "GK",
+      "Nation": "GER",
+      "PlayerName": "Loris Karius",
+      "Team": "NewcastleUnited",
+      "id": 158
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Javier Manquillo",
+      "Team": "NewcastleUnited",
+      "id": 159
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Lewis Hall (on loan from Chelsea)",
+      "Team": "NewcastleUnited",
+      "id": 160
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Tino Livramento",
+      "Team": "NewcastleUnited",
+      "id": 161
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Nick Pope",
+      "Team": "NewcastleUnited",
+      "id": 162
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Jacob Murphy",
+      "Team": "NewcastleUnited",
+      "id": 163
+    },
+    {
+      "Position": "MF",
+      "Nation": "PAR",
+      "PlayerName": "Miguel Almirón",
+      "Team": "NewcastleUnited",
+      "id": 164
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Joe Willock",
+      "Team": "NewcastleUnited",
+      "id": 165
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Mark Gillespie",
+      "Team": "NewcastleUnited",
+      "id": 166
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Elliot Anderson",
+      "Team": "NewcastleUnited",
+      "id": 167
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Dan Burn",
+      "Team": "NewcastleUnited",
+      "id": 168
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Sean Longstaff",
+      "Team": "NewcastleUnited",
+      "id": 169
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Bruno Guimarães",
+      "Team": "NewcastleUnited",
+      "id": 170
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Lewis Miley",
+      "Team": "NewcastleUnited",
+      "id": 171
+    },
+    {
+      "Position": "GK",
+      "Nation": "NED",
+      "PlayerName": "Bart Verbruggen",
+      "Team": "Brighton",
+      "id": 172
+    },
+    {
+      "Position": "DF",
+      "Nation": "GHA",
+      "PlayerName": "Tariq Lamptey",
+      "Team": "Brighton",
+      "id": 173
+    },
+    {
+      "Position": "DF",
+      "Nation": "BRA",
+      "PlayerName": "Igor Julio",
+      "Team": "Brighton",
+      "id": 174
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Adam Webster",
+      "Team": "Brighton",
+      "id": 175
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Lewis Dunk (captain)",
+      "Team": "Brighton",
+      "id": 176
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "James Milner",
+      "Team": "Brighton",
+      "id": 177
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Solly March",
+      "Team": "Brighton",
+      "id": 178
+    },
+    {
+      "Position": "MF",
+      "Nation": "GER",
+      "PlayerName": "Mahmoud Dahoud",
+      "Team": "Brighton",
+      "id": 179
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "João Pedro",
+      "Team": "Brighton",
+      "id": 180
+    },
+    {
+      "Position": "FW",
+      "Nation": "PAR",
+      "PlayerName": "Julio Enciso",
+      "Team": "Brighton",
+      "id": 181
+    },
+    {
+      "Position": "MF",
+      "Nation": "SCO",
+      "PlayerName": "Billy Gilmour",
+      "Team": "Brighton",
+      "id": 182
+    },
+    {
+      "Position": "MF",
+      "Nation": "GER",
+      "PlayerName": "Pascal Groß",
+      "Team": "Brighton",
+      "id": 183
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Adam Lallana",
+      "Team": "Brighton",
+      "id": 184
+    },
+    {
+      "Position": "MF",
+      "Nation": "POL",
+      "PlayerName": "Jakub Moder",
+      "Team": "Brighton",
+      "id": 185
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Danny Welbeck",
+      "Team": "Brighton",
+      "id": 186
+    },
+    {
+      "Position": "MF",
+      "Nation": "CMR",
+      "PlayerName": "Carlos Baleba",
+      "Team": "Brighton",
+      "id": 187
+    },
+    {
+      "Position": "MF",
+      "Nation": "JPN",
+      "PlayerName": "Kaoru Mitoma",
+      "Team": "Brighton",
+      "id": 188
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Jason Steele",
+      "Team": "Brighton",
+      "id": 189
+    },
+    {
+      "Position": "MF",
+      "Nation": "CIV",
+      "PlayerName": "Simon Adingra",
+      "Team": "Brighton",
+      "id": 190
+    },
+    {
+      "Position": "FW",
+      "Nation": "IRL",
+      "PlayerName": "Evan Ferguson",
+      "Team": "Brighton",
+      "id": 191
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Jan Paul van Hecke",
+      "Team": "Brighton",
+      "id": 192
+    },
+    {
+      "Position": "DF",
+      "Nation": "ECU",
+      "PlayerName": "Pervis Estupiñán",
+      "Team": "Brighton",
+      "id": 193
+    },
+    {
+      "Position": "FW",
+      "Nation": "ESP",
+      "PlayerName": "Ansu Fati (on loan from Barcelona)",
+      "Team": "Brighton",
+      "id": 194
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Joël Veltman",
+      "Team": "Brighton",
+      "id": 195
+    },
+    {
+      "Position": "GK",
+      "Nation": "CAN",
+      "PlayerName": "Tom McGill",
+      "Team": "Brighton",
+      "id": 196
+    },
+    {
+      "Position": "MF",
+      "Nation": "ARG",
+      "PlayerName": "Facundo Buonanotte",
+      "Team": "Brighton",
+      "id": 197
+    },
+    {
+      "Position": "GK",
+      "Nation": "POL",
+      "PlayerName": "Łukasz Fabiański",
+      "Team": "WestHam",
+      "id": 198
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ben Johnson",
+      "Team": "WestHam",
+      "id": 199
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Aaron Cresswell",
+      "Team": "WestHam",
+      "id": 200
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Kurt Zouma (captain)",
+      "Team": "WestHam",
+      "id": 201
+    },
+    {
+      "Position": "DF",
+      "Nation": "CZE",
+      "PlayerName": "Vladimír Coufal",
+      "Team": "WestHam",
+      "id": 202
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "James Ward-Prowse",
+      "Team": "WestHam",
+      "id": 203
+    },
+    {
+      "Position": "MF",
+      "Nation": "ESP",
+      "PlayerName": "Pablo Fornals",
+      "Team": "WestHam",
+      "id": 204
+    },
+    {
+      "Position": "FW",
+      "Nation": "JAM",
+      "PlayerName": "Michail Antonio",
+      "Team": "WestHam",
+      "id": 205
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Lucas Paquetá",
+      "Team": "WestHam",
+      "id": 206
+    },
+    {
+      "Position": "FW",
+      "Nation": "GHA",
+      "PlayerName": "Mohammed Kudus",
+      "Team": "WestHam",
+      "id": 207
+    },
+    {
+      "Position": "DF",
+      "Nation": "GRE",
+      "PlayerName": "Konstantinos Mavropanos",
+      "Team": "WestHam",
+      "id": 208
+    },
+    {
+      "Position": "FW",
+      "Nation": "CIV",
+      "PlayerName": "Maxwel Cornet",
+      "Team": "WestHam",
+      "id": 209
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Danny Ings",
+      "Team": "WestHam",
+      "id": 210
+    },
+    {
+      "Position": "MF",
+      "Nation": "MEX",
+      "PlayerName": "Edson Álvarez",
+      "Team": "WestHam",
+      "id": 211
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Jarrod Bowen",
+      "Team": "WestHam",
+      "id": 212
+    },
+    {
+      "Position": "DF",
+      "Nation": "ITA",
+      "PlayerName": "Angelo Ogbonna",
+      "Team": "WestHam",
+      "id": 213
+    },
+    {
+      "Position": "FW",
+      "Nation": "ALG",
+      "PlayerName": "Saïd Benrahma",
+      "Team": "WestHam",
+      "id": 214
+    },
+    {
+      "Position": "GK",
+      "Nation": "FRA",
+      "PlayerName": "Alphonse Areola",
+      "Team": "WestHam",
+      "id": 215
+    },
+    {
+      "Position": "DF",
+      "Nation": "GER",
+      "PlayerName": "Thilo Kehrer",
+      "Team": "WestHam",
+      "id": 216
+    },
+    {
+      "Position": "DF",
+      "Nation": "MAR",
+      "PlayerName": "Nayef Aguerd",
+      "Team": "WestHam",
+      "id": 217
+    },
+    {
+      "Position": "MF",
+      "Nation": "CZE",
+      "PlayerName": "Tomáš Souček",
+      "Team": "WestHam",
+      "id": 218
+    },
+    {
+      "Position": "DF",
+      "Nation": "ITA",
+      "PlayerName": "Emerson Palmieri",
+      "Team": "WestHam",
+      "id": 219
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Joseph Anang",
+      "Team": "WestHam",
+      "id": 220
+    },
+    {
+      "Position": "GK",
+      "Nation": "POR",
+      "PlayerName": "José Sá",
+      "Team": "Wolves",
+      "id": 221
+    },
+    {
+      "Position": "DF",
+      "Nation": "IRL",
+      "PlayerName": "Matt Doherty",
+      "Team": "Wolves",
+      "id": 222
+    },
+    {
+      "Position": "DF",
+      "Nation": "ALG",
+      "PlayerName": "Rayan Aït-Nouri",
+      "Team": "Wolves",
+      "id": 223
+    },
+    {
+      "Position": "DF",
+      "Nation": "URU",
+      "PlayerName": "Santiago Bueno",
+      "Team": "Wolves",
+      "id": 224
+    },
+    {
+      "Position": "MF",
+      "Nation": "GAB",
+      "PlayerName": "Mario Lemina",
+      "Team": "Wolves",
+      "id": 225
+    },
+    {
+      "Position": "MF",
+      "Nation": "MLI",
+      "PlayerName": "Boubacar Traoré",
+      "Team": "Wolves",
+      "id": 226
+    },
+    {
+      "Position": "FW",
+      "Nation": "POR",
+      "PlayerName": "Pedro Neto",
+      "Team": "Wolves",
+      "id": 227
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "João Gomes",
+      "Team": "Wolves",
+      "id": 228
+    },
+    {
+      "Position": "FW",
+      "Nation": "POR",
+      "PlayerName": "Fábio Silva",
+      "Team": "Wolves",
+      "id": 229
+    },
+    {
+      "Position": "FW",
+      "Nation": "KOR",
+      "PlayerName": "Hwang Hee-chan",
+      "Team": "Wolves",
+      "id": 230
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "Matheus Cunha",
+      "Team": "Wolves",
+      "id": 231
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Craig Dawson",
+      "Team": "Wolves",
+      "id": 232
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Hugo Bueno",
+      "Team": "Wolves",
+      "id": 233
+    },
+    {
+      "Position": "FW",
+      "Nation": "AUT",
+      "PlayerName": "Saša Kalajdžić",
+      "Team": "Wolves",
+      "id": 234
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Jonny",
+      "Team": "Wolves",
+      "id": 235
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Tommy Doyle (on loan from Manchester City)",
+      "Team": "Wolves",
+      "id": 236
+    },
+    {
+      "Position": "MF",
+      "Nation": "ESP",
+      "PlayerName": "Pablo Sarabia",
+      "Team": "Wolves",
+      "id": 237
+    },
+    {
+      "Position": "DF",
+      "Nation": "POR",
+      "PlayerName": "Nélson Semedo",
+      "Team": "Wolves",
+      "id": 238
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Max Kilman (captain)",
+      "Team": "Wolves",
+      "id": 239
+    },
+    {
+      "Position": "DF",
+      "Nation": "POR",
+      "PlayerName": "Toti Gomes",
+      "Team": "Wolves",
+      "id": 240
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Dan Bentley (vice-captain)",
+      "Team": "Wolves",
+      "id": 241
+    },
+    {
+      "Position": "MF",
+      "Nation": "FRA",
+      "PlayerName": "Jean-Ricner Bellegarde",
+      "Team": "Wolves",
+      "id": 242
+    },
+    {
+      "Position": "FW",
+      "Nation": "PAR",
+      "PlayerName": "Enso González",
+      "Team": "Wolves",
+      "id": 243
+    },
+    {
+      "Position": "MF",
+      "Nation": "IRL",
+      "PlayerName": "Joe Hodge",
+      "Team": "Wolves",
+      "id": 244
+    },
+    {
+      "Position": "GK",
+      "Nation": "WAL",
+      "PlayerName": "Tom King",
+      "Team": "Wolves",
+      "id": 245
+    },
+    {
+      "Position": "FW",
+      "Nation": "IRL",
+      "PlayerName": "Nathan Fraser",
+      "Team": "Wolves",
+      "id": 246
+    },
+    {
+      "Position": "GK",
+      "Nation": "USA",
+      "PlayerName": "Matt Turner",
+      "Team": "NottingHamForest",
+      "id": 247
+    },
+    {
+      "Position": "DF",
+      "Nation": "POR",
+      "PlayerName": "Nuno Tavares (on loan from Arsenal)",
+      "Team": "NottingHamForest",
+      "id": 248
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Joe Worrall (captain)",
+      "Team": "NottingHamForest",
+      "id": 249
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Orel Mangala",
+      "Team": "NottingHamForest",
+      "id": 250
+    },
+    {
+      "Position": "MF",
+      "Nation": "CIV",
+      "PlayerName": "Ibrahim Sangaré",
+      "Team": "NottingHamForest",
+      "id": 251
+    },
+    {
+      "Position": "DF",
+      "Nation": "WAL",
+      "PlayerName": "Neco Williams",
+      "Team": "NottingHamForest",
+      "id": 252
+    },
+    {
+      "Position": "MF",
+      "Nation": "SEN",
+      "PlayerName": "Cheikhou Kouyaté",
+      "Team": "NottingHamForest",
+      "id": 253
+    },
+    {
+      "Position": "FW",
+      "Nation": "NGA",
+      "PlayerName": "Taiwo Awoniyi",
+      "Team": "NottingHamForest",
+      "id": 254
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Morgan Gibbs-White (4th captain)",
+      "Team": "NottingHamForest",
+      "id": 255
+    },
+    {
+      "Position": "FW",
+      "Nation": "NZL",
+      "PlayerName": "Chris Wood",
+      "Team": "NottingHamForest",
+      "id": 256
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Andrey Santos (on loan from Chelsea)",
+      "Team": "NottingHamForest",
+      "id": 257
+    },
+    {
+      "Position": "GK",
+      "Nation": "WAL",
+      "PlayerName": "Wayne Hennessey",
+      "Team": "NottingHamForest",
+      "id": 258
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Callum Hudson-Odoi",
+      "Team": "NottingHamForest",
+      "id": 259
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Harry Toffolo",
+      "Team": "NottingHamForest",
+      "id": 260
+    },
+    {
+      "Position": "MF",
+      "Nation": "ARG",
+      "PlayerName": "Nicolás Domínguez",
+      "Team": "NottingHamForest",
+      "id": 261
+    },
+    {
+      "Position": "DF",
+      "Nation": "BRA",
+      "PlayerName": "Felipe",
+      "Team": "NottingHamForest",
+      "id": 262
+    },
+    {
+      "Position": "DF",
+      "Nation": "SEN",
+      "PlayerName": "Moussa Niakhaté",
+      "Team": "NottingHamForest",
+      "id": 263
+    },
+    {
+      "Position": "FW",
+      "Nation": "SWE",
+      "PlayerName": "Anthony Elanga",
+      "Team": "NottingHamForest",
+      "id": 264
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Ryan Yates (vice-captain)",
+      "Team": "NottingHamForest",
+      "id": 265
+    },
+    {
+      "Position": "GK",
+      "Nation": "GRE",
+      "PlayerName": "Odysseas Vlachodimos",
+      "Team": "NottingHamForest",
+      "id": 266
+    },
+    {
+      "Position": "DF",
+      "Nation": "CIV",
+      "PlayerName": "Serge Aurier (3rd captain)",
+      "Team": "NottingHamForest",
+      "id": 267
+    },
+    {
+      "Position": "DF",
+      "Nation": "SCO",
+      "PlayerName": "Scott McKenna",
+      "Team": "NottingHamForest",
+      "id": 268
+    },
+    {
+      "Position": "FW",
+      "Nation": "BEL",
+      "PlayerName": "Divock Origi (on loan from AC Milan)",
+      "Team": "NottingHamForest",
+      "id": 269
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Danilo",
+      "Team": "NottingHamForest",
+      "id": 270
+    },
+    {
+      "Position": "DF",
+      "Nation": "ARG",
+      "PlayerName": "Gonzalo Montiel (on loan from Sevilla)",
+      "Team": "NottingHamForest",
+      "id": 271
+    },
+    {
+      "Position": "DF",
+      "Nation": "CIV",
+      "PlayerName": "Willy Boly",
+      "Team": "NottingHamForest",
+      "id": 272
+    },
+    {
+      "Position": "DF",
+      "Nation": "IRL",
+      "PlayerName": "Andrew Omobamidele",
+      "Team": "NottingHamForest",
+      "id": 273
+    },
+    {
+      "Position": "DF",
+      "Nation": "BRA",
+      "PlayerName": "Murillo",
+      "Team": "NottingHamForest",
+      "id": 274
+    },
+    {
+      "Position": "MF",
+      "Nation": "CRC",
+      "PlayerName": "Brandon Aguilera",
+      "Team": "NottingHamForest",
+      "id": 275
+    },
+    {
+      "Position": "DF",
+      "Nation": "NGA",
+      "PlayerName": "Ola Aina",
+      "Team": "NottingHamForest",
+      "id": 276
+    },
+    {
+      "Position": "GK",
+      "Nation": "SVK",
+      "PlayerName": "Marek Rodák",
+      "Team": "Fulham",
+      "id": 277
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Kenny Tete",
+      "Team": "Fulham",
+      "id": 278
+    },
+    {
+      "Position": "DF",
+      "Nation": "NGA",
+      "PlayerName": "Calvin Bassey",
+      "Team": "Fulham",
+      "id": 279
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Tosin Adarabioyo",
+      "Team": "Fulham",
+      "id": 280
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Harrison Reed",
+      "Team": "Fulham",
+      "id": 281
+    },
+    {
+      "Position": "FW",
+      "Nation": "MEX",
+      "PlayerName": "Raúl Jiménez",
+      "Team": "Fulham",
+      "id": 282
+    },
+    {
+      "Position": "MF",
+      "Nation": "WAL",
+      "PlayerName": "Harry Wilson",
+      "Team": "Fulham",
+      "id": 283
+    },
+    {
+      "Position": "MF",
+      "Nation": "SCO",
+      "PlayerName": "Tom Cairney (captain)[92]",
+      "Team": "Fulham",
+      "id": 284
+    },
+    {
+      "Position": "FW",
+      "Nation": "ESP",
+      "PlayerName": "Adama Traoré",
+      "Team": "Fulham",
+      "id": 285
+    },
+    {
+      "Position": "DF",
+      "Nation": "SEN",
+      "PlayerName": "Fodé Ballo-Touré (on loan from AC Milan)",
+      "Team": "Fulham",
+      "id": 286
+    },
+    {
+      "Position": "DF",
+      "Nation": "USA",
+      "PlayerName": "Tim Ream (vice-captain)",
+      "Team": "Fulham",
+      "id": 287
+    },
+    {
+      "Position": "FW",
+      "Nation": "JAM",
+      "PlayerName": "Bobby Decordova-Reid",
+      "Team": "Fulham",
+      "id": 288
+    },
+    {
+      "Position": "GK",
+      "Nation": "GER",
+      "PlayerName": "Bernd Leno",
+      "Team": "Fulham",
+      "id": 289
+    },
+    {
+      "Position": "Pos.",
+      "Nation": "Nation",
+      "PlayerName": "Player",
+      "Team": "Fulham",
+      "id": 290
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Andreas Pereira",
+      "Team": "Fulham",
+      "id": 291
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "Rodrigo Muniz",
+      "Team": "Fulham",
+      "id": 292
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "Willian",
+      "Team": "Fulham",
+      "id": 293
+    },
+    {
+      "Position": "DF",
+      "Nation": "BEL",
+      "PlayerName": "Timothy Castagne",
+      "Team": "Fulham",
+      "id": 294
+    },
+    {
+      "Position": "MF",
+      "Nation": "NGA",
+      "PlayerName": "Alex Iwobi",
+      "Team": "Fulham",
+      "id": 295
+    },
+    {
+      "Position": "GK",
+      "Nation": "GER",
+      "PlayerName": "Steven Benda",
+      "Team": "Fulham",
+      "id": 296
+    },
+    {
+      "Position": "MF",
+      "Nation": "POR",
+      "PlayerName": "João Palhinha",
+      "Team": "Fulham",
+      "id": 297
+    },
+    {
+      "Position": "MF",
+      "Nation": "SRB",
+      "PlayerName": "Saša Lukić",
+      "Team": "Fulham",
+      "id": 298
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "Carlos Vinícius",
+      "Team": "Fulham",
+      "id": 299
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Issa Diop",
+      "Team": "Fulham",
+      "id": 300
+    },
+    {
+      "Position": "DF",
+      "Nation": "USA",
+      "PlayerName": "Antonee Robinson",
+      "Team": "Fulham",
+      "id": 301
+    },
+    {
+      "Position": "MF",
+      "Nation": "AUS",
+      "PlayerName": "Tyrese Francois",
+      "Team": "Fulham",
+      "id": 302
+    },
+    {
+      "Position": "MF",
+      "Nation": "WAL",
+      "PlayerName": "Luke Harris",
+      "Team": "Fulham",
+      "id": 303
+    },
+    {
+      "Position": "GK",
+      "Nation": "BRA",
+      "PlayerName": "Neto (captain)",
+      "Team": "Bournemouth",
+      "id": 304
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ryan Fredericks",
+      "Team": "Bournemouth",
+      "id": 305
+    },
+    {
+      "Position": "DF",
+      "Nation": "HUN",
+      "PlayerName": "Milos Kerkez",
+      "Team": "Bournemouth",
+      "id": 306
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Lewis Cook",
+      "Team": "Bournemouth",
+      "id": 307
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Lloyd Kelly",
+      "Team": "Bournemouth",
+      "id": 308
+    },
+    {
+      "Position": "DF",
+      "Nation": "WAL",
+      "PlayerName": "Chris Mepham (3rd captain)",
+      "Team": "Bournemouth",
+      "id": 309
+    },
+    {
+      "Position": "MF",
+      "Nation": "WAL",
+      "PlayerName": "David Brooks (4th captain)",
+      "Team": "Bournemouth",
+      "id": 310
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Joe Rothwell",
+      "Team": "Bournemouth",
+      "id": 311
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Dominic Solanke",
+      "Team": "Bournemouth",
+      "id": 312
+    },
+    {
+      "Position": "MF",
+      "Nation": "SCO",
+      "PlayerName": "Ryan Christie",
+      "Team": "Bournemouth",
+      "id": 313
+    },
+    {
+      "Position": "MF",
+      "Nation": "BFA",
+      "PlayerName": "Dango Ouattara",
+      "Team": "Bournemouth",
+      "id": 314
+    },
+    {
+      "Position": "GK",
+      "Nation": "IRL",
+      "PlayerName": "Darren Randolph",
+      "Team": "Bournemouth",
+      "id": 315
+    },
+    {
+      "Position": "MF",
+      "Nation": "DEN",
+      "PlayerName": "Emiliano Marcondes",
+      "Team": "Bournemouth",
+      "id": 316
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Alex Scott",
+      "Team": "Bournemouth",
+      "id": 317
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Adam Smith (vice-captain)",
+      "Team": "Bournemouth",
+      "id": 318
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Marcus Tavernier",
+      "Team": "Bournemouth",
+      "id": 319
+    },
+    {
+      "Position": "MF",
+      "Nation": "COL",
+      "PlayerName": "Luis Sinisterra (on loan from Leeds United)",
+      "Team": "Bournemouth",
+      "id": 320
+    },
+    {
+      "Position": "MF",
+      "Nation": "USA",
+      "PlayerName": "Tyler Adams",
+      "Team": "Bournemouth",
+      "id": 321
+    },
+    {
+      "Position": "FW",
+      "Nation": "NED",
+      "PlayerName": "Justin Kluivert",
+      "Team": "Bournemouth",
+      "id": 322
+    },
+    {
+      "Position": "GK",
+      "Nation": "ROU",
+      "PlayerName": "Ionuț Radu (on loan from Inter Milan)",
+      "Team": "Bournemouth",
+      "id": 323
+    },
+    {
+      "Position": "FW",
+      "Nation": "WAL",
+      "PlayerName": "Kieffer Moore",
+      "Team": "Bournemouth",
+      "id": 324
+    },
+    {
+      "Position": "MF",
+      "Nation": "CIV",
+      "PlayerName": "Hamed Traorè",
+      "Team": "Bournemouth",
+      "id": 325
+    },
+    {
+      "Position": "FW",
+      "Nation": "GHA",
+      "PlayerName": "Antoine Semenyo",
+      "Team": "Bournemouth",
+      "id": 326
+    },
+    {
+      "Position": "DF",
+      "Nation": "ARG",
+      "PlayerName": "Marcos Senesi",
+      "Team": "Bournemouth",
+      "id": 327
+    },
+    {
+      "Position": "MF",
+      "Nation": "IRL",
+      "PlayerName": "Gavin Kilkenny",
+      "Team": "Bournemouth",
+      "id": 328
+    },
+    {
+      "Position": "DF",
+      "Nation": "UKR",
+      "PlayerName": "Illya Zabarnyi",
+      "Team": "Bournemouth",
+      "id": 329
+    },
+    {
+      "Position": "MF",
+      "Nation": "DEN",
+      "PlayerName": "Philip Billing",
+      "Team": "Bournemouth",
+      "id": 330
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Max Aarons",
+      "Team": "Bournemouth",
+      "id": 331
+    },
+    {
+      "Position": "GK",
+      "Nation": "IRL",
+      "PlayerName": "Mark Travers",
+      "Team": "Bournemouth",
+      "id": 332
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "James Shea",
+      "Team": "Luton",
+      "id": 333
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Gabriel Osho",
+      "Team": "Luton",
+      "id": 334
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Dan Potts",
+      "Team": "Luton",
+      "id": 335
+    },
+    {
+      "Position": "DF",
+      "Nation": "WAL",
+      "PlayerName": "Tom Lockyer (captain)",
+      "Team": "Luton",
+      "id": 336
+    },
+    {
+      "Position": "DF",
+      "Nation": "DEN",
+      "PlayerName": "Mads Juel Andersen",
+      "Team": "Luton",
+      "id": 337
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Ross Barkley",
+      "Team": "Luton",
+      "id": 338
+    },
+    {
+      "Position": "FW",
+      "Nation": "IRL",
+      "PlayerName": "Chiedozie Ogbene",
+      "Team": "Luton",
+      "id": 339
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Luke Berry",
+      "Team": "Luton",
+      "id": 340
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Carlton Morris",
+      "Team": "Luton",
+      "id": 341
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Cauley Woodrow",
+      "Team": "Luton",
+      "id": 342
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Elijah Adebayo",
+      "Team": "Luton",
+      "id": 343
+    },
+    {
+      "Position": "DF",
+      "Nation": "BFA",
+      "PlayerName": "Issa Kaboré (on loan from Manchester City)",
+      "Team": "Luton",
+      "id": 344
+    },
+    {
+      "Position": "MF",
+      "Nation": "ZIM",
+      "PlayerName": "Marvelous Nakamba",
+      "Team": "Luton",
+      "id": 345
+    },
+    {
+      "Position": "Pos.",
+      "Nation": "Nation",
+      "PlayerName": "Player",
+      "Team": "Luton",
+      "id": 346
+    },
+    {
+      "Position": "MF",
+      "Nation": "NED",
+      "PlayerName": "Tahith Chong",
+      "Team": "Luton",
+      "id": 347
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Teden Mengi",
+      "Team": "Luton",
+      "id": 348
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Reece Burke",
+      "Team": "Luton",
+      "id": 349
+    },
+    {
+      "Position": "MF",
+      "Nation": "COD",
+      "PlayerName": "Pelly Ruddock Mpanzu",
+      "Team": "Luton",
+      "id": 350
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Jordan Clark",
+      "Team": "Luton",
+      "id": 351
+    },
+    {
+      "Position": "FW",
+      "Nation": "SCO",
+      "PlayerName": "Jacob Brown",
+      "Team": "Luton",
+      "id": 352
+    },
+    {
+      "Position": "GK",
+      "Nation": "NED",
+      "PlayerName": "Tim Krul",
+      "Team": "Luton",
+      "id": 353
+    },
+    {
+      "Position": "GK",
+      "Nation": "BEL",
+      "PlayerName": "Thomas Kaminski",
+      "Team": "Luton",
+      "id": 354
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ryan Giles",
+      "Team": "Luton",
+      "id": 355
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Albert Sambi Lokonga (on loan from Arsenal)",
+      "Team": "Luton",
+      "id": 356
+    },
+    {
+      "Position": "DF",
+      "Nation": "JAM",
+      "PlayerName": "Amari'i Bell",
+      "Team": "Luton",
+      "id": 357
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Andros Townsend",
+      "Team": "Luton",
+      "id": 358
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Alfie Doughty",
+      "Team": "Luton",
+      "id": 359
+    },
+    {
+      "Position": "GK",
+      "Nation": "WAL",
+      "PlayerName": "Adam Davies",
+      "Team": "ShieffieldUnited",
+      "id": 360
+    },
+    {
+      "Position": "DF",
+      "Nation": "GRE",
+      "PlayerName": "George Baldock",
+      "Team": "ShieffieldUnited",
+      "id": 361
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Max Lowe",
+      "Team": "ShieffieldUnited",
+      "id": 362
+    },
+    {
+      "Position": "MF",
+      "Nation": "SCO",
+      "PlayerName": "John Fleck",
+      "Team": "ShieffieldUnited",
+      "id": 363
+    },
+    {
+      "Position": "DF",
+      "Nation": "USA",
+      "PlayerName": "Auston Trusty",
+      "Team": "ShieffieldUnited",
+      "id": 364
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Chris Basham",
+      "Team": "ShieffieldUnited",
+      "id": 365
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Rhian Brewster",
+      "Team": "ShieffieldUnited",
+      "id": 366
+    },
+    {
+      "Position": "MF",
+      "Nation": "NED",
+      "PlayerName": "Gustavo Hamer",
+      "Team": "ShieffieldUnited",
+      "id": 367
+    },
+    {
+      "Position": "FW",
+      "Nation": "SCO",
+      "PlayerName": "Oli McBurnie",
+      "Team": "ShieffieldUnited",
+      "id": 368
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Cameron Archer",
+      "Team": "ShieffieldUnited",
+      "id": 369
+    },
+    {
+      "Position": "FW",
+      "Nation": "CIV",
+      "PlayerName": "Bénie Traoré",
+      "Team": "ShieffieldUnited",
+      "id": 370
+    },
+    {
+      "Position": "DF",
+      "Nation": "IRL",
+      "PlayerName": "John Egan (captain)",
+      "Team": "ShieffieldUnited",
+      "id": 371
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Luke Thomas (on loan from Leicester City)",
+      "Team": "ShieffieldUnited",
+      "id": 372
+    },
+    {
+      "Position": "DF",
+      "Nation": "BIH",
+      "PlayerName": "Anel Ahmedhodžić",
+      "Team": "ShieffieldUnited",
+      "id": 373
+    },
+    {
+      "Position": "MF",
+      "Nation": "NIR",
+      "PlayerName": "Oliver Norwood",
+      "Team": "ShieffieldUnited",
+      "id": 374
+    },
+    {
+      "Position": "MF",
+      "Nation": "MLI",
+      "PlayerName": "Ismaila Coulibaly",
+      "Team": "ShieffieldUnited",
+      "id": 375
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Wes Foderingham",
+      "Team": "ShieffieldUnited",
+      "id": 376
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Jack Robinson",
+      "Team": "ShieffieldUnited",
+      "id": 377
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Jayden Bogle",
+      "Team": "ShieffieldUnited",
+      "id": 378
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Vinícius Souza",
+      "Team": "ShieffieldUnited",
+      "id": 379
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Tom Davies",
+      "Team": "ShieffieldUnited",
+      "id": 380
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Ben Osborn",
+      "Team": "ShieffieldUnited",
+      "id": 381
+    },
+    {
+      "Position": "MF",
+      "Nation": "TUN",
+      "PlayerName": "Anis Ben Slimane",
+      "Team": "ShieffieldUnited",
+      "id": 382
+    },
+    {
+      "Position": "DF",
+      "Nation": "ALG",
+      "PlayerName": "Yasser Larouci (on loan from Troyes)",
+      "Team": "ShieffieldUnited",
+      "id": 383
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "James McAtee (on loan from Manchester City)",
+      "Team": "ShieffieldUnited",
+      "id": 384
+    },
+    {
+      "Position": "FW",
+      "Nation": "DEN",
+      "PlayerName": "William Osula",
+      "Team": "ShieffieldUnited",
+      "id": 385
+    },
+    {
+      "Position": "DF",
+      "Nation": "WAL",
+      "PlayerName": "Rhys Norrington-Davies",
+      "Team": "ShieffieldUnited",
+      "id": 386
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Andre Brooks",
+      "Team": "ShieffieldUnited",
+      "id": 387
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Daniel Jebbison",
+      "Team": "ShieffieldUnited",
+      "id": 388
+    },
+    {
+      "Position": "GK",
+      "Nation": "GER",
+      "PlayerName": "Jordan Amissah",
+      "Team": "ShieffieldUnited",
+      "id": 389
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Femi Seriki",
+      "Team": "ShieffieldUnited",
+      "id": 390
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Antwoine Hackford",
+      "Team": "ShieffieldUnited",
+      "id": 391
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Jili Buyabu",
+      "Team": "ShieffieldUnited",
+      "id": 392
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "James Trafford",
+      "Team": "Burnley",
+      "id": 393
+    },
+    {
+      "Position": "DF",
+      "Nation": "IRL",
+      "PlayerName": "Dara O'Shea",
+      "Team": "Burnley",
+      "id": 394
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Charlie Taylor",
+      "Team": "Burnley",
+      "id": 395
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Jack Cork (captain)",
+      "Team": "Burnley",
+      "id": 396
+    },
+    {
+      "Position": "DF",
+      "Nation": "GER",
+      "PlayerName": "Jordan Beyer",
+      "Team": "Burnley",
+      "id": 397
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "CJ Egan-Riley",
+      "Team": "Burnley",
+      "id": 398
+    },
+    {
+      "Position": "MF",
+      "Nation": "ISL",
+      "PlayerName": "Jóhann Berg Guðmundsson",
+      "Team": "Burnley",
+      "id": 399
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Josh Brownhill (vice-captain)",
+      "Team": "Burnley",
+      "id": 400
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Jay Rodriguez",
+      "Team": "Burnley",
+      "id": 401
+    },
+    {
+      "Position": "FW",
+      "Nation": "BEL",
+      "PlayerName": "Manuel Benson",
+      "Team": "Burnley",
+      "id": 402
+    },
+    {
+      "Position": "DF",
+      "Nation": "WAL",
+      "PlayerName": "Connor Roberts",
+      "Team": "Burnley",
+      "id": 403
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Nathan Redmond",
+      "Team": "Burnley",
+      "id": 404
+    },
+    {
+      "Position": "MF",
+      "Nation": "NOR",
+      "PlayerName": "Sander Berge",
+      "Team": "Burnley",
+      "id": 405
+    },
+    {
+      "Position": "FW",
+      "Nation": "RSA",
+      "PlayerName": "Lyle Foster",
+      "Team": "Burnley",
+      "id": 406
+    },
+    {
+      "Position": "DF",
+      "Nation": "SWE",
+      "PlayerName": "Hjalmar Ekdal",
+      "Team": "Burnley",
+      "id": 407
+    },
+    {
+      "Position": "FW",
+      "Nation": "MAR",
+      "PlayerName": "Anass Zaroury",
+      "Team": "Burnley",
+      "id": 408
+    },
+    {
+      "Position": "GK",
+      "Nation": "ITA",
+      "PlayerName": "Denis Franchi",
+      "Team": "Burnley",
+      "id": 409
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Aaron Ramsey",
+      "Team": "Burnley",
+      "id": 410
+    },
+    {
+      "Position": "DF",
+      "Nation": "BRA",
+      "PlayerName": "Vitinho",
+      "Team": "Burnley",
+      "id": 411
+    },
+    {
+      "Position": "MF",
+      "Nation": "IRL",
+      "PlayerName": "Josh Cullen",
+      "Team": "Burnley",
+      "id": 412
+    },
+    {
+      "Position": "FW",
+      "Nation": "SUI",
+      "PlayerName": "Zeki Amdouni",
+      "Team": "Burnley",
+      "id": 413
+    },
+    {
+      "Position": "FW",
+      "Nation": "MKD",
+      "PlayerName": "Darko Churlinov",
+      "Team": "Burnley",
+      "id": 414
+    },
+    {
+      "Position": "DF",
+      "Nation": "BEL",
+      "PlayerName": "Ameen Al-Dakhil",
+      "Team": "Burnley",
+      "id": 415
+    },
+    {
+      "Position": "GK",
+      "Nation": "CHI",
+      "PlayerName": "Lawrence Vigouroux",
+      "Team": "Burnley",
+      "id": 416
+    },
+    {
+      "Position": "FW",
+      "Nation": "ITA",
+      "PlayerName": "Luca Koleosho",
+      "Team": "Burnley",
+      "id": 417
+    },
+    {
+      "Position": "FW",
+      "Nation": "BEL",
+      "PlayerName": "Mike Trésor (on loan from Genk)",
+      "Team": "Burnley",
+      "id": 418
+    },
+    {
+      "Position": "FW",
+      "Nation": "DEN",
+      "PlayerName": "Jacob Bruun Larsen (on loan from 1899 Hoffenheim)",
+      "Team": "Burnley",
+      "id": 419
+    },
+    {
+      "Position": "MF",
+      "Nation": "FRA",
+      "PlayerName": "Han-Noah Massengo",
+      "Team": "Burnley",
+      "id": 420
+    },
+    {
+      "Position": "DF",
+      "Nation": "BEL",
+      "PlayerName": "Hannes Delcroix",
+      "Team": "Burnley",
+      "id": 421
+    },
+    {
+      "Position": "FW",
+      "Nation": "IRL",
+      "PlayerName": "Michael Obafemi",
+      "Team": "Burnley",
+      "id": 422
+    },
+    {
+      "Position": "FW",
+      "Nation": "FRA",
+      "PlayerName": "Wilson Odobert",
+      "Team": "Burnley",
+      "id": 423
+    },
+    {
+      "Position": "FW",
+      "Nation": "BEL",
+      "PlayerName": "Enock Agyei",
+      "Team": "Burnley",
+      "id": 424
+    },
+    {
+      "Position": "GK",
+      "Nation": "KOS",
+      "PlayerName": "Arijanet Muric",
+      "Team": "Burnley",
+      "id": 425
+    },
+    {
+      "Position": "GK",
+      "Nation": "NED",
+      "PlayerName": "Mark Flekken",
+      "Team": "Brentford",
+      "id": 426
+    },
+    {
+      "Position": "DF",
+      "Nation": "SCO",
+      "PlayerName": "Aaron Hickey",
+      "Team": "Brentford",
+      "id": 427
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Rico Henry",
+      "Team": "Brentford",
+      "id": 428
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Charlie Goode",
+      "Team": "Brentford",
+      "id": 429
+    },
+    {
+      "Position": "DF",
+      "Nation": "JAM",
+      "PlayerName": "Ethan Pinnock",
+      "Team": "Brentford",
+      "id": 430
+    },
+    {
+      "Position": "MF",
+      "Nation": "DEN",
+      "PlayerName": "Christian Nørgaard (captain)",
+      "Team": "Brentford",
+      "id": 431
+    },
+    {
+      "Position": "FW",
+      "Nation": "FRA",
+      "PlayerName": "Neal Maupay (on loan from Everton)",
+      "Team": "Brentford",
+      "id": 432
+    },
+    {
+      "Position": "MF",
+      "Nation": "DEN",
+      "PlayerName": "Mathias Jensen (3rd captain)",
+      "Team": "Brentford",
+      "id": 433
+    },
+    {
+      "Position": "FW",
+      "Nation": "GER",
+      "PlayerName": "Kevin Schade",
+      "Team": "Brentford",
+      "id": 434
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Josh Dasilva",
+      "Team": "Brentford",
+      "id": 435
+    },
+    {
+      "Position": "FW",
+      "Nation": "COD",
+      "PlayerName": "Yoane Wissa",
+      "Team": "Brentford",
+      "id": 436
+    },
+    {
+      "Position": "DF",
+      "Nation": "DEN",
+      "PlayerName": "Mathias Jørgensen",
+      "Team": "Brentford",
+      "id": 437
+    },
+    {
+      "Position": "MF",
+      "Nation": "IRN",
+      "PlayerName": "Saman Ghoddos",
+      "Team": "Brentford",
+      "id": 438
+    },
+    {
+      "Position": "MF",
+      "Nation": "NGA",
+      "PlayerName": "Frank Onyeka",
+      "Team": "Brentford",
+      "id": 439
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ben Mee",
+      "Team": "Brentford",
+      "id": 440
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Ivan Toney (vice-captain)",
+      "Team": "Brentford",
+      "id": 441
+    },
+    {
+      "Position": "FW",
+      "Nation": "CMR",
+      "PlayerName": "Bryan Mbeumo",
+      "Team": "Brentford",
+      "id": 442
+    },
+    {
+      "Position": "DF",
+      "Nation": "NOR",
+      "PlayerName": "Kristoffer Ajer",
+      "Team": "Brentford",
+      "id": 443
+    },
+    {
+      "Position": "GK",
+      "Nation": "ALB",
+      "PlayerName": "Thomas Strakosha",
+      "Team": "Brentford",
+      "id": 444
+    },
+    {
+      "Position": "DF",
+      "Nation": "IRL",
+      "PlayerName": "Nathan Collins",
+      "Team": "Brentford",
+      "id": 445
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Keane Lewis-Potter",
+      "Team": "Brentford",
+      "id": 446
+    },
+    {
+      "Position": "MF",
+      "Nation": "DEN",
+      "PlayerName": "Mikkel Damsgaard",
+      "Team": "Brentford",
+      "id": 447
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Myles Peart-Harris",
+      "Team": "Brentford",
+      "id": 448
+    },
+    {
+      "Position": "MF",
+      "Nation": "GRN",
+      "PlayerName": "Shandon Baptiste",
+      "Team": "Brentford",
+      "id": 449
+    },
+    {
+      "Position": "MF",
+      "Nation": "GER",
+      "PlayerName": "Vitaly Janelt (4th captain)",
+      "Team": "Brentford",
+      "id": 450
+    },
+    {
+      "Position": "DF",
+      "Nation": "DEN",
+      "PlayerName": "Mads Roerslev",
+      "Team": "Brentford",
+      "id": 451
+    },
+    {
+      "Position": "MF",
+      "Nation": "UKR",
+      "PlayerName": "Yehor Yarmolyuk",
+      "Team": "Brentford",
+      "id": 452
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Ellery Balcombe",
+      "Team": "Brentford",
+      "id": 453
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Sam Johnstone",
+      "Team": "CrystalPalace",
+      "id": 454
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Joel Ward (captain)",
+      "Team": "CrystalPalace",
+      "id": 455
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Tyrick Mitchell",
+      "Team": "CrystalPalace",
+      "id": 456
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Rob Holding",
+      "Team": "CrystalPalace",
+      "id": 457
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "James Tomkins",
+      "Team": "CrystalPalace",
+      "id": 458
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Marc Guéhi (vice-captain)",
+      "Team": "CrystalPalace",
+      "id": 459
+    },
+    {
+      "Position": "MF",
+      "Nation": "FRA",
+      "PlayerName": "Michael Olise",
+      "Team": "CrystalPalace",
+      "id": 460
+    },
+    {
+      "Position": "MF",
+      "Nation": "COL",
+      "PlayerName": "Jefferson Lerma",
+      "Team": "CrystalPalace",
+      "id": 461
+    },
+    {
+      "Position": "FW",
+      "Nation": "GHA",
+      "PlayerName": "Jordan Ayew",
+      "Team": "CrystalPalace",
+      "id": 462
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Eberechi Eze",
+      "Team": "CrystalPalace",
+      "id": 463
+    },
+    {
+      "Position": "MF",
+      "Nation": "BRA",
+      "PlayerName": "Matheus França",
+      "Team": "CrystalPalace",
+      "id": 464
+    },
+    {
+      "Position": "FW",
+      "Nation": "FRA",
+      "PlayerName": "Jean-Philippe Mateta",
+      "Team": "CrystalPalace",
+      "id": 465
+    },
+    {
+      "Position": "MF",
+      "Nation": "GHA",
+      "PlayerName": "Jeffrey Schlupp",
+      "Team": "CrystalPalace",
+      "id": 466
+    },
+    {
+      "Position": "DF",
+      "Nation": "DEN",
+      "PlayerName": "Joachim Andersen",
+      "Team": "CrystalPalace",
+      "id": 467
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Nathaniel Clyne",
+      "Team": "CrystalPalace",
+      "id": 468
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Will Hughes",
+      "Team": "CrystalPalace",
+      "id": 469
+    },
+    {
+      "Position": "FW",
+      "Nation": "FRA",
+      "PlayerName": "Odsonne Édouard",
+      "Team": "CrystalPalace",
+      "id": 470
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Malcolm Ebiowei",
+      "Team": "CrystalPalace",
+      "id": 471
+    },
+    {
+      "Position": "DF",
+      "Nation": "USA",
+      "PlayerName": "Chris Richards",
+      "Team": "CrystalPalace",
+      "id": 472
+    },
+    {
+      "Position": "MF",
+      "Nation": "MLI",
+      "PlayerName": "Cheick Doucouré",
+      "Team": "CrystalPalace",
+      "id": 473
+    },
+    {
+      "Position": "MF",
+      "Nation": "FRA",
+      "PlayerName": "Naouirou Ahamada",
+      "Team": "CrystalPalace",
+      "id": 474
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Dean Henderson",
+      "Team": "CrystalPalace",
+      "id": 475
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Remi Matthews",
+      "Team": "CrystalPalace",
+      "id": 476
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Nathan Ferguson",
+      "Team": "CrystalPalace",
+      "id": 477
+    },
+    {
+      "Position": "MF",
+      "Nation": "NED",
+      "PlayerName": "Jaïro Riedewald",
+      "Team": "CrystalPalace",
+      "id": 478
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Jesurun Rak-Sakyi",
+      "Team": "CrystalPalace",
+      "id": 479
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Jordan Pickford",
+      "Team": "Everton",
+      "id": 480
+    },
+    {
+      "Position": "DF",
+      "Nation": "SCO",
+      "PlayerName": "Nathan Patterson",
+      "Team": "Everton",
+      "id": 481
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Michael Keane",
+      "Team": "Everton",
+      "id": 482
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "James Tarkowski (vice-captain)",
+      "Team": "Everton",
+      "id": 483
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Dwight McNeil",
+      "Team": "Everton",
+      "id": 484
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Amadou Onana",
+      "Team": "Everton",
+      "id": 485
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Dominic Calvert-Lewin",
+      "Team": "Everton",
+      "id": 486
+    },
+    {
+      "Position": "FW",
+      "Nation": "NED",
+      "PlayerName": "Arnaut Danjuma (on loan from Villarreal)",
+      "Team": "Everton",
+      "id": 487
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Jack Harrison (on loan from Leeds United)",
+      "Team": "Everton",
+      "id": 488
+    },
+    {
+      "Position": "GK",
+      "Nation": "POR",
+      "PlayerName": "João Virgínia",
+      "Team": "Everton",
+      "id": 489
+    },
+    {
+      "Position": "FW",
+      "Nation": "POR",
+      "PlayerName": "Beto",
+      "Team": "Everton",
+      "id": 490
+    },
+    {
+      "Position": "MF",
+      "Nation": "MLI",
+      "PlayerName": "Abdoulaye Doucouré",
+      "Team": "Everton",
+      "id": 491
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ashley Young",
+      "Team": "Everton",
+      "id": 492
+    },
+    {
+      "Position": "DF",
+      "Nation": "UKR",
+      "PlayerName": "Vitaliy Mykolenko",
+      "Team": "Everton",
+      "id": 493
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Dele Alli",
+      "Team": "Everton",
+      "id": 494
+    },
+    {
+      "Position": "MF",
+      "Nation": "POR",
+      "PlayerName": "André Gomes",
+      "Team": "Everton",
+      "id": 495
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ben Godfrey",
+      "Team": "Everton",
+      "id": 496
+    },
+    {
+      "Position": "DF",
+      "Nation": "IRL",
+      "PlayerName": "Séamus Coleman (captain)",
+      "Team": "Everton",
+      "id": 497
+    },
+    {
+      "Position": "MF",
+      "Nation": "SEN",
+      "PlayerName": "Idrissa Gueye",
+      "Team": "Everton",
+      "id": 498
+    },
+    {
+      "Position": "FW",
+      "Nation": "POR",
+      "PlayerName": "Youssef Chermiti",
+      "Team": "Everton",
+      "id": 499
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Andy Lonergan",
+      "Team": "Everton",
+      "id": 500
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Jarrad Branthwaite",
+      "Team": "Everton",
+      "id": 501
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "James Garner",
+      "Team": "Everton",
+      "id": 502
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Billy Crellin",
+      "Team": "Everton",
+      "id": 503
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Lewis Dobbin",
+      "Team": "Everton",
+      "id": 504
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Tyler Onyango",
+      "Team": "Everton",
+      "id": 505
+    },
+    {
+      "Position": "GK",
+      "Nation": "ESP",
+      "PlayerName": "Robert Sánchez",
+      "Team": "Chelsea",
+      "id": 506
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Axel Disasi",
+      "Team": "Chelsea",
+      "id": 507
+    },
+    {
+      "Position": "DF",
+      "Nation": "ESP",
+      "PlayerName": "Marc Cucurella",
+      "Team": "Chelsea",
+      "id": 508
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Benoît Badiashile",
+      "Team": "Chelsea",
+      "id": 509
+    },
+    {
+      "Position": "DF",
+      "Nation": "BRA",
+      "PlayerName": "Thiago Silva",
+      "Team": "Chelsea",
+      "id": 510
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Raheem Sterling",
+      "Team": "Chelsea",
+      "id": 511
+    },
+    {
+      "Position": "MF",
+      "Nation": "ARG",
+      "PlayerName": "Enzo Fernández",
+      "Team": "Chelsea",
+      "id": 512
+    },
+    {
+      "Position": "FW",
+      "Nation": "UKR",
+      "PlayerName": "Mykhailo Mudryk",
+      "Team": "Chelsea",
+      "id": 513
+    },
+    {
+      "Position": "FW",
+      "Nation": "ENG",
+      "PlayerName": "Noni Madueke",
+      "Team": "Chelsea",
+      "id": 514
+    },
+    {
+      "Position": "GK",
+      "Nation": "ENG",
+      "PlayerName": "Marcus Bettinelli",
+      "Team": "Chelsea",
+      "id": 515
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Trevoh Chalobah",
+      "Team": "Chelsea",
+      "id": 516
+    },
+    {
+      "Position": "FW",
+      "Nation": "SEN",
+      "PlayerName": "Nicolas Jackson",
+      "Team": "Chelsea",
+      "id": 517
+    },
+    {
+      "Position": "MF",
+      "Nation": "FRA",
+      "PlayerName": "Lesley Ugochukwu",
+      "Team": "Chelsea",
+      "id": 518
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Carney Chukwuemeka",
+      "Team": "Chelsea",
+      "id": 519
+    },
+    {
+      "Position": "FW",
+      "Nation": "FRA",
+      "PlayerName": "Christopher Nkunku",
+      "Team": "Chelsea",
+      "id": 520
+    },
+    {
+      "Position": "FW",
+      "Nation": "ALB",
+      "PlayerName": "Armando Broja",
+      "Team": "Chelsea",
+      "id": 521
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Cole Palmer",
+      "Team": "Chelsea",
+      "id": 522
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Ben Chilwell (vice-captain)",
+      "Team": "Chelsea",
+      "id": 523
+    },
+    {
+      "Position": "MF",
+      "Nation": "ENG",
+      "PlayerName": "Conor Gallagher (3rd captain)",
+      "Team": "Chelsea",
+      "id": 524
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Reece James (captain)",
+      "Team": "Chelsea",
+      "id": 525
+    },
+    {
+      "Position": "MF",
+      "Nation": "ECU",
+      "PlayerName": "Moisés Caicedo",
+      "Team": "Chelsea",
+      "id": 526
+    },
+    {
+      "Position": "DF",
+      "Nation": "ENG",
+      "PlayerName": "Levi Colwill",
+      "Team": "Chelsea",
+      "id": 527
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Malo Gusto",
+      "Team": "Chelsea",
+      "id": 528
+    },
+    {
+      "Position": "GK",
+      "Nation": "SRB",
+      "PlayerName": "Đorđe Petrović",
+      "Team": "Chelsea",
+      "id": 529
+    },
+    {
+      "Position": "DF",
+      "Nation": "NED",
+      "PlayerName": "Ian Maatsen",
+      "Team": "Chelsea",
+      "id": 530
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Wesley Fofana",
+      "Team": "Chelsea",
+      "id": 531
+    },
+    {
+      "Position": "FW",
+      "Nation": "BRA",
+      "PlayerName": "Deivid Washington",
+      "Team": "Chelsea",
+      "id": 532
+    },
+    {
+      "Position": "MF",
+      "Nation": "BEL",
+      "PlayerName": "Roméo Lavia",
+      "Team": "Chelsea",
+      "id": 533
+    },
+    {
+      "Position": "GK",
+      "Nation": "FIN",
+      "PlayerName": "Lucas Bergström",
+      "Team": "Chelsea",
+      "id": 534
+    },
+    {
+      "Position": "DF",
+      "Nation": "FRA",
+      "PlayerName": "Malang Sarr",
+      "Team": "Chelsea",
+      "id": 535
+    }
+   ]

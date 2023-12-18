@@ -1,0 +1,41 @@
+# Define the kubectl command
+KUBECTL := microk8s.kubectl
+WORK_DIR := ~/MYPROJECTS/EPLPROJECTS/EPL-API/src-kubernetes/
+
+.PHONY: DEPLOY-PROMETHEUS
+DEPLOY-PROMETHEUS:
+	@echo "ENABLING OBSERVABILITY ADDON FOR THIS MICROK8S CLUSTER..."
+	microk8s enable prometheus
+
+.PHONY: DEPLOY-METALLB
+DEPLOY-METALLB:
+	@echo "ENABLING LOADBALANCER ADDON METALLB FOR THIS MICROK8S CLUSTER..."
+	microk8s enable metallb
+
+.PHONY: DEPLOY-ISTIOBASE
+DEPLOY-ISTIOBASE:
+	@echo "DEPLOYING ISTIO BASE ON TO THE MICROK8S CLUSTER..."
+	bash $(WORK_DIR)istio/ISTIO_BASE_DEPLOY.sh  
+
+.PHONY: DEPLOY-ISTIOGATEWAY
+DEPLOY-ISTIOGATEWAY:
+	@echo "DEPLOYING ISTIO GATEWAY ON TO THE MICROK8S CLUSTER..."
+	bash $(WORK_DIR)istio/istio-gateway/ISTIO_GATEWAY_DEPLOY.sh  
+
+
+.PHONY: DEPLOY-EPLAPP
+DEPLOY-EPLAPP:
+	@echo "Applying Kubernetes YAML files"
+	$(KUBECTL) apply -f $(WORK_DIR)templates/client.yaml
+	$(KUBECTL) apply -f $(WORK_DIR)templates/deployment.yaml
+	$(KUBECTL) apply -f $(WORK_DIR)templates/namespace.yaml
+	$(KUBECTL) apply -f $(WORK_DIR)templates/service.yaml
+	$(KUBECTL) apply -f $(WORK_DIR)templates/virtual-service.yaml
+
+	
+.PHONY: DEPLOY-SERVICEMONITOR
+DEPLOY-SERVICEMONITOR:
+	@echo "DEPLOYING THE SERVICE MONITOR TO MONITOR THE APP'S ENDPOINTS"
+	microk8s kubectl apply -f $(WORKING_DIRECTORY)istio/service-monitor.yaml
+
+

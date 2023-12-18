@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: teamroasterepl
+  name: teamroasterepl
+  namespace: teamroasterepl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: teamroasterepl
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: teamroasterepl
+    spec:
+      containers:
+      - image: nosaugowe/teamroasterepl
+        args:
+        - /bin/sh
+        - "-c"
+        - "echo 'STARTING THE SUPERVISOR BINARY SERVICE..'"
+        - "supervisord.conf /etc/supervisor/conf.d/supervisord.conf"
+        name: teamroaster-epl-xp5n4
+        ports:
+        - containerPort: 1212
+        resources: {}
+status: {}

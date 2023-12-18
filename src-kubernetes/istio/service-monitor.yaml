@@ -1,0 +1,13 @@
+apiVersion: monitoring.coreos.com/v1
+kind: ServiceMonitor
+metadata:
+  name: teamroasterepl-servicemonitor
+  labels:
+    prometheus: kube-prom-stack
+spec:
+  selector:
+    matchLabels:
+      app: teamroasterepl
+  endpoints:
+  - port: roasterscrape
+  
