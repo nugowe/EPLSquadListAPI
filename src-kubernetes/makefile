@@ -1,6 +1,6 @@
 # Define the kubectl command
 KUBECTL := microk8s.kubectl
-WORK_DIR := ~/MYPROJECTS/EPLPROJECTS/EPL-API/src-kubernetes/
+WORK_DIR := ~//
 
 .PHONY: DEPLOY-PROMETHEUS
 DEPLOY-PROMETHEUS:
