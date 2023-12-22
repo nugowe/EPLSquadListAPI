@@ -273,7 +273,7 @@ print("COMBINING THE VARIOUS TEAMS DATAFRAMES IN TO A ROW BIND")
 
 EPLSQUADLIST <- rbind(ArsenalTable, ChelseaTable, LiverpoolTable, ManchesterCityTable, ManchesterUnitedTable, EvertonTable, BrightonTable, BrentfordTable, TottenhamHotspurTable, WesthamTable, AstonVillaTable, WolverhamptonWanderersTable, BurnleyTable, CrystalPalaceTable, FulhamTable, LutonTable, SheffieldUnitedTable, BournemouthTable, NewscastleUnitedTable, NottinghamforestTable)
 
-
+# USE YOUR FAVORITE TOOL TO CONVERT THIS DATAFRAME TO A JSON FORMAT AND DEFINE IT IN THE DJANGO NINJA PORTION OF THIS REPO.
 
 print("SCRIPT RUN COMPLETE!")
 
