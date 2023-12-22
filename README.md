@@ -2,7 +2,7 @@
 
 [Screencast from 2023-12-17 22-50-43.webm](https://github.com/nugowe/EPLSquadListAPI/assets/25004712/faffab50-cee1-4391-b0b0-2ed3f17cbd01)
 
-## USAGE INSRUCTIONS FOR THE APPLICATION.
+# USAGE INSRUCTIONS FOR THE APPLICATION.
 
 Simply navigate within your terminal to the location where the makefile resides and run the commands below:
 
