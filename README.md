@@ -55,7 +55,7 @@ http://localhost:1212/epl/playerlist?Team="ManchesterCity"
 http://localhost:1212/epl/playerlist?Position="DF"
 
 
-[Screencast from 2023-12-17 22-50-43.webm](https://github.com/nugowe/EPLSquadListAPI/assets/25004712/faffab50-cee1-4391-b0b0-2ed3f17cbd01)
+
 
 
 
