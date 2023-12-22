@@ -1,51 +1,36 @@
 ![ServiceMesh](https://github.com/nugowe/EPLSquadListAPI/assets/25004712/90792b15-8515-40ee-b740-b4666a7803d1)
 
-KUBECTL := microk8s.kubectl
-WORK_DIR := ~/MYPROJECTS/EPLPROJECTS/EPL-API/src-kubernetes/
-DJANGO_WORK_DIR := ~/MYPROJECTS/EPLPROJECTS/EPL-API/core/
+![ServiceMesh](https://github.com/nugowe/EPLSquadListAPI/assets/25004712/90792b15-8515-40ee-b740-b4666a7803d1)
 
-.PHONY: DEPLOY-PROMETHEUS
-DEPLOY-PROMETHEUS:
-	@echo "ENABLING OBSERVABILITY ADDON FOR THIS MICROK8S CLUSTER..."
-	microk8s enable prometheus
+[Screencast from 2023-12-17 22-50-43.webm](https://github.com/nugowe/EPLSquadListAPI/assets/25004712/faffab50-cee1-4391-b0b0-2ed3f17cbd01)
 
-.PHONY: DEPLOY-METALLB
-DEPLOY-METALLB:
-	@echo "ENABLING LOADBALANCER ADDON METALLB FOR THIS MICROK8S CLUSTER..."
-	microk8s enable metallb
+## Deploy Prometheus
 
-.PHONY: DEPLOY-ISTIOBASE
-DEPLOY-ISTIOBASE:
-	@echo "DEPLOYING ISTIO BASE ON TO THE MICROK8S CLUSTER..."
-	bash $(WORK_DIR)istio/ISTIO_BASE_DEPLOY.sh  
-	
+make DEPLOY-PROMETHEUS
 
-.PHONY: DEPLOY-ISTIOGATEWAY
-DEPLOY-ISTIOGATEWAY:
-	@echo "DEPLOYING ISTIO GATEWAY ON TO THE MICROK8S CLUSTER..."
-	bash $(WORK_DIR)istio/istio-gateway/ISTIO_GATEWAY_DEPLOY.sh  
+## Deploy metallb
 
+make DEPLOY-METALLB
 
-.PHONY: DEPLOY-EPLAPP-MICROK8S
-DEPLOY-EPLAPP-MICROK8S:
-	@echo "DEPLOYING THE EPL API APPLICATION FROM THE MICROK8S CLUSTER"
-	$(KUBECTL) apply -f $(WORK_DIR)templates/client.yaml
-	$(KUBECTL) apply -f $(WORK_DIR)templates/deployment.yaml
-	$(KUBECTL) apply -f $(WORK_DIR)templates/namespace.yaml
-	$(KUBECTL) apply -f $(WORK_DIR)templates/service.yaml
-	$(KUBECTL) apply -f $(WORK_DIR)templates/virtual-service.yaml
+## Deploy Istiobase 
 
-	
-.PHONY: DEPLOY-SERVICEMONITOR
-DEPLOY-SERVICEMONITOR:
-	@echo "DEPLOYING THE SERVICE MONITOR TO MONITOR THE APP'S ENDPOINTS"
-	microk8s kubectl apply -f $(WORKING_DIRECTORY)istio/service-monitor.yaml
+make DEPLOY-ISTIOBASE
 
+## Deploy Istiogateway
 
-.PHONY: DEPLOY-EPLAPP-MICROK8S-DJANGO
-DEPLOY-EPLAPP-MICROK8S-DJANGO:
-	@echo "RUNNING THE DJANGO EPL API APPLICATION DIRECTLY FROM THE DJANGO WEB SERVER.."
-	python3 $(DJANGO_WORK_DIR)manage.py runserver 0.0.0.0:1212
+make DEPLOY-ISTIOGATEWAY
+
+## Deploy THE EPL API APPLICATION FROM THE MICROK8S CLUSTER
+
+make DEPLOY-EPLAPP-MICROK8S
+
+## Deploy Prometheus Service Monitor
+
+make DEPLOY-SERVICEMONITOR
+
+## DEPLOY THE EPL API APPLICATION DIRECTLY FROM DJANGO NINJA 
+
+make DEPLOY-EPLAPP-DJANGO-NINJA
 
 
 [Screencast from 2023-12-17 22-50-43.webm](https://github.com/nugowe/EPLSquadListAPI/assets/25004712/faffab50-cee1-4391-b0b0-2ed3f17cbd01)
