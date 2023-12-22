@@ -1,6 +1,13 @@
+#DEFINING THE R LIBRARIES TO RUN THIS SCRIPT
 library(polite)
 library(tidyverse)
 library(rvest)
+
+#SCRAPE INSTRUCTIONS TO SCRAPE ALL THE TEAMS CURRENTLY COMPETING IN THE 2023/2024 SEASON
+
+#THE DETAILS ARE SCRAPED BASED ON THE HTML PAGE DOM DETAILS AND CLEANED UP IN TO A DATAFRAME.
+
+print("SCRAPING DETAILS FOR THE ARSENAL SQUAD LIST...")
 
 ArsenalUrl <- 'https://en.wikipedia.org/wiki/Arsenal_F.C.'
 session = bow(user_agent = "arsenal-scrape", ArsenalUrl)
@@ -14,6 +21,8 @@ ArsenalTable <- ArsenalTable[-c(1),]
 ArsenalTable$Team <- "Arsenal"
 
 
+print("SCRAPING DETAILS FOR THE CHELSEA SQUAD LIST...")
+
 ChelseaUrl <- 'https://en.wikipedia.org/wiki/Chelsea_F.C.'
 ChelseaTable <- scrape(session) %>% html_nodes("table:nth-child(141)") %>% html_table()
 session = bow(user_agent = "Chelsea-Scrape", ChelseaUrl)
@@ -24,6 +33,8 @@ names(ChelseaTable)[2] <- "Nation"
 names(ChelseaTable)[3] <- "PlayerName"
 ChelseaTable <- ChelseaTable[-c(1),]
 ChelseaTable$Team <- "Chelsea"
+
+print("SCRAPING DETAILS FOR THE LIVERPOOL SQUAD LIST...")
 
 LiverpoolUrl <- 'https://en.wikipedia.org/wiki/Liverpool_F.C.'
 LiverpoolTable <- scrape(session) %>% html_nodes("table:nth-child(82)") %>% html_table()
@@ -36,6 +47,8 @@ names(LiverpoolTable)[3] <- "PlayerName"
 LiverpoolTable <- LiverpoolTable[-c(1),]
 LiverpoolTable$Team <- "Liverpool"
 
+print("SCRAPING DETAILS FOR THE MANCHESTER CITY SQUAD LIST...")
+
 ManchesterCityUrl <- 'https://en.wikipedia.org/wiki/Manchester_City_F.C.'
 ManchesterCityTable <- scrape(session) %>% html_nodes("table:nth-child(71)") %>% html_table()
 session = bow(user_agent = "ManchesterCity-Scrape", ManchesterCityUrl)
@@ -46,6 +59,8 @@ names(ManchesterCityTable)[2] <- "Nation"
 names(ManchesterCityTable)[3] <- "PlayerName"
 ManchesterCityTable <- ManchesterCityTable[-c(1),]
 ManchesterCityTable$Team <- "ManchesterCity"
+
+print("SCRAPING DETAILS FOR THE MANCHESTER UNITED SQUAD LIST...")
 
 ManchesterUnitedUrl <- 'https://en.wikipedia.org/wiki/Manchester_United_F.C.'
 ManchesterUnitedTable <- scrape(session) %>% html_nodes("table:nth-child(137)") %>% html_table()
@@ -58,6 +73,9 @@ names(ManchesterUnitedTable)[3] <- "PlayerName"
 ManchesterUnitedTable <- ManchesterUnitedTable[-c(1),]
 ManchesterUnitedTable$Team <- "ManchesterUnited"
 
+
+print("SCRAPING DETAILS FOR THE EVERTON SQUAD LIST...")
+
 EvertonUrl <- 'https://en.wikipedia.org/wiki/Everton_F.C.'
 EvertonTable <- scrape(session) %>% html_nodes("table:nth-child(89)") %>% html_table()
 session = bow(user_agent = "Everton-Scrape", EvertonUrl)
@@ -68,6 +86,8 @@ names(EvertonTable)[2] <- "Nation"
 names(EvertonTable)[3] <- "PlayerName"
 EvertonTable <- EvertonTable[-c(1),]
 EvertonTable$Team <- "Everton"
+
+print("SCRAPING DETAILS FOR THE BRIGHTON SQUAD LIST...")
 
 BrightonUrl <- 'https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C.'
 BrightonTable <- scrape(session) %>% html_nodes("table:nth-child(64)") %>% html_table()
@@ -80,6 +100,8 @@ names(BrightonTable)[3] <- "PlayerName"
 BrightonTable <- BrightonTable[-c(1),]
 BrightonTable$Team <- "Brighton"
 
+print("SCRAPING DETAILS FOR BRENTFORD SQAUD LIST....")
+
 BrentfordUrl <- 'https://en.wikipedia.org/wiki/Brentford_F.C.'
 BrentfordTable <- scrape(session) %>% html_nodes("table:nth-child(50)") %>% html_table()
 session = bow(user_agent = "Brentford-Scrape", BrentfordUrl)
@@ -90,6 +112,8 @@ names(BrentfordTable)[2] <- "Nation"
 names(BrentfordTable)[3] <- "PlayerName"
 BrentfordTable <- BrentfordTable[-c(1),]
 BrentfordTable$Team <- "Brentford"
+
+print("SCRAPING DETAILS FOR THE TOTTENHAMHOTSPUR SQUAD LIST...")
 
 TottenhamHotspurUrl <- 'https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.'
 TottenhamHotspurTable <- scrape(session) %>% html_nodes("table:nth-child(144)") %>% html_table()
@@ -102,6 +126,8 @@ names(TottenhamHotspurTable)[3] <- "PlayerName"
 TottenhamHotspurTable <- TottenhamHotspurTable[-c(1),]
 TottenhamHotspurTable$Team <- "TottenhamHotspur"
 
+print("SCRAPING DETAILS FOR THE WESTHAM SQUAD LIST...")
+
 WesthamUrl <- 'https://en.wikipedia.org/wiki/West_Ham_United_F.C.'
 WesthamTable <- scrape(session) %>% html_nodes("table:nth-child(155)") %>% html_table()
 session = bow(user_agent = "Westham-Scrape", WesthamUrl)
@@ -112,6 +138,8 @@ names(WesthamTable)[2] <- "Nation"
 names(WesthamTable)[3] <- "PlayerName"
 WesthamTable <- WesthamTable[-c(1),]
 WesthamTable$Team <- "WestHam"
+
+print("SCRAPING DETAILS FOR THE ASTON VILLA SQUAD LIST...")
 
 AstonVillaUrl <- 'https://en.wikipedia.org/wiki/Aston_Villa_F.C.'
 AstonVillaTable <- scrape(session) %>% html_nodes("table:nth-child(139)") %>% html_table()
@@ -124,6 +152,8 @@ names(AstonVillaTable)[3] <- "PlayerName"
 AstonVillaTable <- AstonVillaTable[-c(1),]
 AstonVillaTable$Team <- "AstonVilla"
 
+print("SCRAPING DETAILS FOR THE WOLVES SQUAD LIST...")
+
 WolverhamptonWanderersUrl <- 'https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.'
 WolverhamptonWanderersTable <- scrape(session) %>% html_nodes("table:nth-child(80)") %>% html_table()
 session = bow(user_agent = "WolverhamptonWanderers-Scrape", WolverhamptonWanderersUrl)
@@ -134,6 +164,8 @@ names(WolverhamptonWanderersTable)[2] <- "Nation"
 names(WolverhamptonWanderersTable)[3] <- "PlayerName"
 WolverhamptonWanderersTable <- WolverhamptonWanderersTable[-c(1),]
 WolverhamptonWanderersTable$Team <- "WolverhamptonWanderers"
+
+print("SCRAPING DETAILS FOR THE BURNLEY SQUAD LIST...")
 
 BurnleyUrl <- 'https://en.wikipedia.org/wiki/Burnley_F.C.'
 BurnleyTable <- scrape(session) %>% html_nodes("table:nth-child(75)") %>% html_table()
@@ -146,6 +178,7 @@ names(BurnleyTable)[3] <- "PlayerName"
 BurnleyTable <- BurnleyTable[-c(1),]
 BurnleyTable$Team <- "Burnley"
 
+print("SCRAPING DETAILS FOR CRYSTAL PALACE SQUAD LIST...")
 
 CrystalPalaceUrl <- 'https://en.wikipedia.org/wiki/Crystal_Palace_F.C.'
 CrystalPalaceTable <- scrape(session) %>% html_nodes("table:nth-child(112)") %>% html_table()
@@ -158,6 +191,8 @@ names(CrystalPalaceTable)[3] <- "PlayerName"
 CrystalPalaceTable <- CrystalPalaceTable[-c(1),]
 CrystalPalaceTable$Team <- "CrystalPalace"
 
+print("SCRAPING DETAILS FOR FULHAM SQUAD LIST...")
+
 FulhamUrl <- 'https://en.wikipedia.org/wiki/Fulham_F.C.'
 FulhamTable <- scrape(session) %>% html_nodes("table:nth-child(113)") %>% html_table()
 session = bow(user_agent = "fulham-test-intern", FulhamUrl)
@@ -169,6 +204,7 @@ names(FulhamTable)[3] <- "PlayerName"
 FulhamTable <- FulhamTable[-c(1),]
 FulhamTable$Team <- "Fulham"
 
+print("SCRAPING DETAILS FOR LUTON SQUAD LIST...")
 
 LutonUrl <- 'https://en.wikipedia.org/wiki/Luton_F.C.'
 LutonTable <- scrape(session) %>% html_nodes("table:nth-child(87)") %>% html_table()
@@ -181,6 +217,8 @@ names(LutonTable)[3] <- "PlayerName"
 LutonTable <- LutonTable[-c(1),]
 LutonTable$Team <- "Luton"
 
+print("SCRAPING DETAILS FOR SHEFFIELD UNITED SQUAD LIST...")
+
 SheffieldUnitedUrl <- 'https://en.wikipedia.org/wiki/Sheffield_United_F.C.'
 SheffieldUnitedTable <- scrape(session) %>% html_nodes("table:nth-child(89)") %>% html_table()
 session = bow(user_agent = "SheffieldUnited-test-intern", SheffieldUnitedUrl)
@@ -191,6 +229,8 @@ names(SheffieldUnitedTable)[2] <- "Nation"
 names(SheffieldUnitedTable)[3] <- "PlayerName"
 SheffieldUnitedTable <- SheffieldUnitedTable[-c(1),]
 SheffieldUnitedTable$Team <- "SheffieldUnited"
+
+print("SCRAPING DETAILS FOR BOURNEMOUTH SQUAD LIST...")
 
 BournemouthUrl <- 'https://en.wikipedia.org/wiki/AFC_Bournemouth'
 BournemouthTable <- scrape(session) %>% html_nodes("table:nth-child(68)") %>% html_table()
@@ -203,6 +243,8 @@ names(BournemouthTable)[3] <- "PlayerName"
 BournemouthTable <- BournemouthTable[-c(1),]
 BournemouthTable$Team <- "Bournemouth"
 
+print("SCRAPING DETAILS FOR NEWSCASTLE UNITED SQUAD LIST...")
+
 NewscastleUnitedUrl <- 'https://en.wikipedia.org/wiki/Newcastle_United_F.C.'
 NewscastleUnitedTable <- scrape(session) %>% html_nodes("table:nth-child(130)") %>% html_table()
 session = bow(user_agent = "NewscastleUnited-test-intern", NewscastleUnitedUrl)
@@ -214,6 +256,8 @@ names(NewscastleUnitedTable)[3] <- "PlayerName"
 NewscastleUnitedTable <- NewscastleUnitedTable[-c(1),]
 NewscastleUnitedTable$Team <- "NewscastleUnited"
 
+print("SCRAPING DETAILS FOR NOTTINGHAM FOREST SQUAD LIST...")
+
 NottinghamforestUrl <- 'https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.'
 NottinghamforestTable <- scrape(session) %>% html_nodes("table:nth-child(172)") %>% html_table()
 session = bow(user_agent = "Nottinghamforest-test-intern", NottinghamforestUrl)
@@ -224,6 +268,14 @@ names(NottinghamforestTable)[2] <- "Nation"
 names(NottinghamforestTable)[3] <- "PlayerName"
 NottinghamforestTable <- NottinghamforestTable[-c(1),]
 NottinghamforestTable$Team <- "Nottinghamforest"
+
+print("COMBINING THE VARIOUS TEAMS DATAFRAMES IN TO A ROW BIND")
+
+EPLSQUADLIST <- rbind(ArsenalTable, ChelseaTable, LiverpoolTable, ManchesterCityTable, ManchesterUnitedTable, EvertonTable, BrightonTable, BrentfordTable, TottenhamHotspurTable, WesthamTable, AstonVillaTable, WolverhamptonWanderersTable, BurnleyTable, CrystalPalaceTable, FulhamTable, LutonTable, SheffieldUnitedTable, BournemouthTable, NewscastleUnitedTable, NottinghamforestTable)
+
+
+
+print("SCRIPT RUN COMPLETE!")
 
 
 
