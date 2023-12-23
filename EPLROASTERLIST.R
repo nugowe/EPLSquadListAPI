@@ -273,7 +273,13 @@ print("COMBINING THE VARIOUS TEAMS DATAFRAMES IN TO A ROW BIND")
 
 EPLSQUADLIST <- rbind(ArsenalTable, ChelseaTable, LiverpoolTable, ManchesterCityTable, ManchesterUnitedTable, EvertonTable, BrightonTable, BrentfordTable, TottenhamHotspurTable, WesthamTable, AstonVillaTable, WolverhamptonWanderersTable, BurnleyTable, CrystalPalaceTable, FulhamTable, LutonTable, SheffieldUnitedTable, BournemouthTable, NewscastleUnitedTable, NottinghamforestTable)
 
-# USE YOUR FAVORITE TOOL TO CONVERT THIS DATAFRAME TO A JSON FORMAT AND DEFINE IT IN THE DJANGO NINJA PORTION OF THIS REPO.
+# SAVING THE EQLSQUADLIST TO A CSV FILE
+
+write.csv(EPLSQUADLIST, "EPLSQUADLIST.csv")
+
+# AT THIS STAGE USE YOUR FAVORITE TOOL TO CONVERT THIS DATAFRAME TO A JSON FORMAT AND DEFINE IT IN THE DJANGO NINJA PORTION OF THIS REPO.
+
+# I USED THIS https://www.convertcsv.com/csv-to-json.htm but for a Production environment, Python would be a better choice.
 
 print("SCRIPT RUN COMPLETE!")
 
